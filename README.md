@@ -58,5 +58,4 @@ The following advanced user stories are optional:
 
 Here's a walkthrough of implemented user stories:
 
-<a href="https://imgflip.com/gif/23qge2"><img src="https://i.imgflip.com/23qge2.gif" title="made at imgflip.com"/></a>
-
+<a href="https://imgflip.com/gif/23qgoz"><img src="https://i.imgflip.com/23qgoz.gif" title="made at imgflip.com"/></a>
